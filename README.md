@@ -1,6 +1,16 @@
-# Grace Yan's Data & AI Portfolio
+# Hi, I'm Grace Yan!
 
-Welcome to my portfolio! I’m Grace Yan, a Data Analytics student at The Ohio State University (Honors) with a passion for machine intelligence, large language models (LLMs), and full-stack development. This repository highlights a collection of my work in data science, AI/ML, backend development, and visualization.
+🎓 **Data Analytics Honors Student** @ The Ohio State University  
+🔍 Specializing in Machine Intelligence
+📊 Passionate about using data science, machine learning, and NLP to build scalable tools and drive decision-making.
+
+💼 **Current Roles:**
+- Data Science & AI Intern @ JPMorgan Chase
+- Teaching Assistant @ OSU Engineering
+
+📫 **Contact me:**  
+📧 graceyan04526@gmail.com  
+🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/grace-yan-b74b1418a/))  
 
 ---
 
