@@ -2,9 +2,9 @@
 
 🎓 **Data Analytics Honors Student** @ The Ohio State University  
 🔍 Specializing in Machine Intelligence
-📊 Passionate about using data science, machine learning, and NLP to build scalable tools and drive decision-making.
 
-💼 **Current Roles:**
+💼 **Experiences:**
+- Incoming Data Analyst Associate @ Capital One
 - Data Science & AI Intern @ JPMorgan Chase
 - Teaching Assistant @ OSU Engineering
 
